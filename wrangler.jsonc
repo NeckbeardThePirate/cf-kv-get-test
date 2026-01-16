@@ -13,7 +13,7 @@
 
 	"kv_namespaces": [
 		{
-			"id": "0d5b494b18d94e31a3e5480e7da01b11",
+			"id": "some_kv_id",
 			"binding": "TEST_KV",
 			"remote": true
 		}
